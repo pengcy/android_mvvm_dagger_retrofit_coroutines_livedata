@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string name="error_bad_request">Bad request</string>
+    <string name="error_not_authorized">Not Authorized</string>
+    <string name="error_not_found">Resource not found</string>
+    <string name="error_server_error">Server error</string>
+    <string name="error_unexpected_null_error">Unexpected null value error</string>
+</resources>
